@@ -43,7 +43,7 @@ Python | Machine Learning | Agriculture
 
 Working on an intelligent system for crop water requirement prediction and irrigation advisory.
 
-[View Project](https://github.com/BhavyashreeHegde02/mca_project_jalachakra)
+[View Project](https://github.com/BhavyashreeHegde02/MCA_agrihydro_50-)
 
 ### 3. VidyaSutra AI
 AI | OCR | RAG | Scholarship Technology
@@ -52,21 +52,30 @@ A team hackathon project focused on scholarship discovery, eligibility evaluatio
 
 🏆 Team achievement: 1st Runner-up.
 
-[View Project](https://github.com/BhavyashreeHegde02/VidyaSutra)
+[View Project](https://github.com/BhavyashreeHegde02/CBC044)
 
-### 4. Jenkins CI/CD Demo
+### 4.Online Retail Recommendation System
+Machine Learning | Recommendation Systems
+
+A recommendation-system project focused on exploring personalized product recommendations using online retail data.
+
+[View Project](https://github.com/BhavyashreeHegde02/Online_Retail_Recommendation_System)
+
+
+### 5. Jenkins CI/CD Demo
 Jenkins | CI/CD | Automation
 
 Hands-on practice with continuous integration and deployment workflows.
 
 [View Project](https://github.com/BhavyashreeHegde02/jenkins-CICD-Demo)
 
-### 5. GitLab Terraform Demo
-Terraform | GitLab | Infrastructure as Code
+### 6. GitHub Actions CI/CD Deployment
+HTML | GitHub Actions | GitHub Pages | CI/CD
 
-Exploring infrastructure provisioning and automation.
+A hands-on CI/CD project demonstrating automated workflow execution using GitHub Actions and deployment through GitHub Pages.
 
-[View Project](https://github.com/BhavyashreeHegde02/gitlab-terraform-demo)
+[View Project](https://github.com/BhavyashreeHegde02/cicd-github-039)
+
 
 ## 🎯 Current Focus
 
@@ -88,7 +97,7 @@ PES University, Bengaluru
 ## 🤝 Connect With Me
 
 - GitHub: [BhavyashreeHegde02](https://github.com/BhavyashreeHegde02)
-- LinkedIn: Add your actual LinkedIn profile URL.
+- LinkedIn: https://www.linkedin.com/in/bhavyashreehegde01/
 - Email: bhavyashreehegde0@gmail.com
 
 ---
